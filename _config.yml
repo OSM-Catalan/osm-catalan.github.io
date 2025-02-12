@@ -22,17 +22,18 @@ url: "https://www.osmcatala.cat"
 ###############################################
 
 navbar-links:
-  Mapa en català: "https://www.openstreetmap.cat/#map=10/42.5/2.8"
+  Mapa en catala: "https://www.openstreetmap.cat/#map=10/42.5/2.8"
   La Comunitat: "https://wiki.openstreetmap.org/wiki/WikiProject_Catalan"
   Destacats: 
-    - El català al mapa: "catala-al-mapa"
+    - El catala al mapa: "catala-al-mapa"
   Col·laboracions: 
     - ICGC: "https://www.icgc.cat/ca"
-  L'Associació: 
-    - Història: "associacio"
+  L'Associacio: 
+    - Historia: "associacio"
+    - Estatuts: "assets/docs/Estatuts - Associacio Catalana de OpenStreetMap.pdf"
   Contacte: 
-    - Xarxes i comunicació: "xarxes-i-comunicacio"
-    - Fòrum oficial: "https://community.openstreetmap.org/c/communities/lang-ca/69"
+    - Xarxes i comunicacio: "xarxes-i-comunicacio"
+    - Forum oficial: "https://community.openstreetmap.org/c/communities/lang-ca/69"
 
 ################
 # --- Logo --- #
