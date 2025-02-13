@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reunió dimart 28 de gener de 2025
+title: Reunió dimarts 28 de gener de 2025
 subtitle: Es convoca reunió per a la creació de l'associació
 tags: [reunio, associacio]
 comments: true
