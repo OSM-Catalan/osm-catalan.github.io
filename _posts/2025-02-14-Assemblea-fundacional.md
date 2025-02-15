@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assemblea fundacional 11 de març (per confiramr)
+title: Assemblea fundacional 11 de març (data i lloc per confirmar)
 subtitle: Es convoca assemblea fundacional per a la creació de l'associació
 tags: [reunio, associacio]
 comments: true
