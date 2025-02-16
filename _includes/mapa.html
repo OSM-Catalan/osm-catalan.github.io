@@ -1,7 +1,18 @@
-<head>
-<!-- Javascript components -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- generalities -->
+    <title>OpenStreetMap en català</title>
+    <meta charset=utf-8>
+    <meta name=description content="OpenStreetMap en català">
+    <meta http-equiv="Content-language" content="ca">
+
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    
+    
+    <!-- Javascript components -->
       <!-- Openlayers -->
-      <script src="assets/js/ol.js" type="text/javascript"></script>
+      <script src="../ol/v4.4.1/ol.js" type="text/javascript"></script>
       <!-- The line below is only needed for old environments like Internet Explorer and Android 4.x -->
       <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
       <!-- layer switcher -->
@@ -13,15 +24,182 @@
 
     <!-- the linked styles -->
       <!-- OpenLayers -->
-      <link rel="stylesheet" href="assets/css/ol.css">
+      <link rel="stylesheet" href="../ol/v4.4.1/ol.css">
       <!-- layer switcher -->
       <link rel="stylesheet" type="text/css" href="https://rawgit.com/walkermatt/ol3-layerswitcher/master/src/ol3-layerswitcher.css">
       <!-- geocoder for search -->
       <link rel="stylesheet" href="//cdn.jsdelivr.net/openlayers.geocoder/latest/ol3-geocoder.min.css">
       <link rel="stylesheet" href="https://unpkg.com/ol-popup@2.0.0/src/ol-popup.css" />
-</head>
-<!-- the map -->
-    <div id="map" class="map"><div class="ol-viewport" data-view="14" style="position: relative; overflow: hidden; width: 100%; height: 100%; touch-action: none;"><canvas class="ol-unselectable" width="1365" height="888" style="width: 100%; height: 100%; display: block;"></canvas><div class="ol-overlaycontainer"></div><div class="ol-overlaycontainer-stopevent"><div class="ol-overlay-container ol-selectable" style="position: absolute; display: none;"><div class="ol-popup"><a class="ol-popup-closer" href="#"></a><div class="ol-popup-content"></div></div></div><div class="ol-zoom ol-unselectable ol-control"><button class="ol-zoom-in" type="button" title="Amplia">+</button><button class="ol-zoom-out" type="button" title="Allunya">−</button></div><div class="ol-rotate ol-unselectable ol-control ol-hidden"><button class="ol-rotate-reset" type="button" title="Reset rotation"><span class="ol-compass" style="transform: rotate(0rad);">⇧</span></button></div><div class="ol-attribution ol-unselectable ol-control ol-uncollapsible"><ul><li style=""><a href="https://openlayers.org/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAHGAAABxgEXwfpGAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAhNQTFRF////AP//AICAgP//AFVVQECA////K1VVSbbbYL/fJ05idsTYJFtbbcjbJllmZszWWMTOIFhoHlNiZszTa9DdUcHNHlNlV8XRIVdiasrUHlZjIVZjaMnVH1RlIFRkH1RkH1ZlasvYasvXVsPQH1VkacnVa8vWIVZjIFRjVMPQa8rXIVVkXsXRsNveIFVkIFZlIVVj3eDeh6GmbMvXH1ZkIFRka8rWbMvXIFVkIFVjIFVkbMvWH1VjbMvWIFVlbcvWIFVla8vVIFVkbMvWbMvVH1VkbMvWIFVlbcvWIFVkbcvVbMvWjNPbIFVkU8LPwMzNIFVkbczWIFVkbsvWbMvXIFVkRnB8bcvW2+TkW8XRIFVkIlZlJVloJlpoKlxrLl9tMmJwOWd0Omh1RXF8TneCT3iDUHiDU8LPVMLPVcLPVcPQVsPPVsPQV8PQWMTQWsTQW8TQXMXSXsXRX4SNX8bSYMfTYcfTYsfTY8jUZcfSZsnUaIqTacrVasrVa8jTa8rWbI2VbMvWbcvWdJObdcvUdszUd8vVeJaee87Yfc3WgJyjhqGnitDYjaarldPZnrK2oNbborW5o9bbo9fbpLa6q9ndrL3ArtndscDDutzfu8fJwN7gwt7gxc/QyuHhy+HizeHi0NfX0+Pj19zb1+Tj2uXk29/e3uLg3+Lh3+bl4uXj4ufl4+fl5Ofl5ufl5ujm5+jmySDnBAAAAFp0Uk5TAAECAgMEBAYHCA0NDg4UGRogIiMmKSssLzU7PkJJT1JTVFliY2hrdHZ3foSFhYeJjY2QkpugqbG1tre5w8zQ09XY3uXn6+zx8vT09vf4+Pj5+fr6/P39/f3+gz7SsAAAAVVJREFUOMtjYKA7EBDnwCPLrObS1BRiLoJLnte6CQy8FLHLCzs2QUG4FjZ5GbcmBDDjxJBXDWxCBrb8aM4zbkIDzpLYnAcE9VXlJSWlZRU13koIeW57mGx5XjoMZEUqwxWYQaQbSzLSkYGfKFSe0QMsX5WbjgY0YS4MBplemI4BdGBW+DQ11eZiymfqQuXZIjqwyadPNoSZ4L+0FVM6e+oGI6g8a9iKNT3o8kVzNkzRg5lgl7p4wyRUL9Yt2jAxVh6mQCogae6GmflI8p0r13VFWTHBQ0rWPW7ahgWVcPm+9cuLoyy4kCJDzCm6d8PSFoh0zvQNC5OjDJhQopPPJqph1doJBUD5tnkbZiUEqaCnB3bTqLTFG1bPn71kw4b+GFdpLElKIzRxxgYgWNYc5SCENVHKeUaltHdXx0dZ8uBI1hJ2UUDgq82CM2MwKeibqAvSO7MCABq0wXEPiqWEAAAAAElFTkSuQmCC"></a></li><li>© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d'OpenStreetMap</a></li><li style="display: none;">© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d'OpenStreetMap</a></li><li style="display: none;">© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d'OpenStreetMap</a></li><li style="display: none;">© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d'OpenStreetMap</a></li></ul><button type="button" title="Attributions"><span>i</span></button></div><div class="ol-scale-line ol-unselectable"><div class="ol-scale-line-inner" style="width: 88px;">10 km</div></div><div class="ol-unselectable ol-control layer-switcher"><button title="Légende"></button><div class="panel"><ul><li class="group"><label>Capes superposades</label><ul><li class="layer"><input type="checkbox" id="6bed235a-acd8-4ec0-8f8f-4533a5b3ae55"><label for="6bed235a-acd8-4ec0-8f8f-4533a5b3ae55">Topònim present en català?</label></li></ul></li><li class="group"><label>Mapes</label><ul><li class="layer"><input type="radio" name="base" id="78ef6af3-2d22-4bbc-aadc-5b232302d3a0"><label for="78ef6af3-2d22-4bbc-aadc-5b232302d3a0">OpenStreetMap CAT</label></li><li class="layer"><input type="radio" name="base" id="08c7dcc0-d92c-4b7b-819b-44739b0be7ea"><label for="08c7dcc0-d92c-4b7b-819b-44739b0be7ea">OpenStreetMap FR</label></li><li class="layer"><input type="radio" name="base" id="7da275de-2467-4cd9-91c3-6c2ad834487b"><label for="7da275de-2467-4cd9-91c3-6c2ad834487b">OpenStreetMap ORG</label></li></ul></li></ul></div></div><div class="ol-geocoder gcd-txt-container"><div class="gcd-txt-control"><input type="text" id="gcd-input-query" class="gcd-txt-input" autocomplete="off" placeholder="Cercar en català"><span class="gcd-txt-glass"></span><button type="button" id="gcd-input-reset" class="gcd-txt-reset gcd-hidden"></button></div><ul class="gcd-txt-result"></ul></div></div></div></div>
+
+    
+    <!-- the overrides styles, directly below -->
+    <style type="text/css">
+
+      /* for full page map */
+      html, body {
+        margin: 0;
+        height: 100%;
+
+        font-family: 'Helvetica Neue',Arial,sans-serif;
+        font-size: 12px;
+      }
+
+
+      /* ----------------------------- */
+      /* for the header */
+
+      #header {
+        height: 55px;
+        width: 100%;
+        display: inline;
+
+        background-color: #fff;
+
+        font-size: 14px;
+        text-align: left;
+      }
+      #header img.logo {
+        width: 40px;
+        height: 40px;
+        margin-top: 5px;
+        margin-left: 5px;
+      }
+      #header .slogan {
+        position: fixed;
+        padding-top: 12px;
+        padding-left: 10px;
+
+        font-size: 18px;
+        font-weight: 600;
+      }
+      #header a:link, a:active {
+        text-decoration: none;
+        color: black;
+      }
+      #header a:hover {
+        text-decoration: underline;
+        color: black;
+      }
+
+      #updateInfo {
+        position: absolute;
+        margin: 0;
+        padding: 0;
+        top: 15px;
+        left: 400px;
+      }
+
+      /*  Navigation  */
+      #nav {
+        position: absolute;
+        margin: 0;
+        padding: 0;
+        top: 15px;
+        right: 1em;
+      }
+      #nav ul {
+        float: left;
+        list-style: none;
+        margin: 0 0 0 5px;
+        padding: 0;
+        display: inline;
+      }
+      #nav ul li {
+        display: inline;
+        margin: 0; padding: 0;
+      }
+      #nav ul li a {
+        float: left;
+        margin: 0;
+        padding: 0 8px;
+        text-decoration: none;
+        color: #a5a3a3;
+      }
+      #nav ul li a:hover,
+      #nav ul li a:active {
+        color: #333;
+        background: none;
+        border: none;
+      }
+
+      /* ----------------------------- */
+      /* for the geocoder */
+
+      @media all and (max-width: 480px) {
+        /* Fer-ho més acceptable pels mòbils */
+        .ol-geocoder.gcd-txt-container {
+          width: 16em;
+          left: calc(50% - 8em);
+        }
+      }
+      .ol-geocoder .gcd-txt-input {
+        font-size: 1.2em;
+      }
+      .ol-geocoder ul.gcd-txt-result {
+        font-size: 1.2em;
+      }
+
+      /* ----------------------------- */
+      /* for the map */
+
+      #map {
+        position: absolute;
+        top: 55px;
+        bottom: 0;
+        width: 100%;
+      }
+
+      .ol-zoom {
+        top: .5em;
+        left: .5em;
+        font-size: 1.5em;
+      }
+
+      .layer-switcher {
+        /* Perquè es vegi sobre la recerca */
+        z-index: 2;
+        top: .5em;
+      }
+      .layer-switcher.shown {
+        /* Altrament dificulta el tancament */
+        bottom: auto;
+      }
+
+      .ol-control button{
+        background-color: rgba(40, 40, 40, 0.8) !important;
+      }
+
+      .ol-geocoder .ol-control, .ol-geocoder .ol-control button:hover {
+        background-color: rgba(40, 40, 40, 0) !important;
+      }
+
+      .ol-attribution ul {
+        font-size: 0.9em;
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <!-- the header -->
+    <div id="header">
+      <img class="logo" src="img/osm_cat.png" alt="logo osm.cat">
+      <span class="slogan">OpenStreetMap en català</span>
+
+      <!--<div id="updateInfo">Hivizadur ar gartenn : dec'h</div>-->
+
+      <div id="nav">
+        <ul>
+          <li><a href="https://wiki.openstreetmap.org/wiki/CA:Mapa_en_catal%C3%A0" target="_blank">Projecte</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- the map -->
+    <div id="map" class="map"></div>
 
     <script type="text/javascript">
 
@@ -57,13 +235,13 @@
 
       // OSM BR
       var layerOsmBr = new ol.layer.Tile({
-        title: 'OpenStreetMap en Català',
+        title: 'OpenStreetMap CAT',
         type: 'base',
         visible: true,
         source: new ol.source.XYZ({
           url: 'https://tile.openstreetmap.bzh/ca/{z}/{x}/{y}.png',
           attributions: [
-            '© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d'OpenStreetMap</a>'
+            '© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d\'OpenStreetMap</a>'
           ]
         })
       });
@@ -76,7 +254,7 @@
         source: new ol.source.XYZ({
           url: 'https://tile.openstreetmap.bzh/ca_control/{z}/{x}/{y}.png',
           attributions: [
-            '© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d'OpenStreetMap</a>'
+            '© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d\'OpenStreetMap</a>'
           ]
         })
       });
@@ -89,7 +267,7 @@
         source: new ol.source.XYZ({
           url: 'https://{a-c}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png',
           attributions: [
-            '© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d'OpenStreetMap</a>'
+            '© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d\'OpenStreetMap</a>'
           ]
         })
       });
@@ -102,7 +280,7 @@
         source: new ol.source.XYZ({
           url: 'https://{a-c}.tile.openstreetmap.org/{z}/{x}/{y}.png',
           attributions: [
-            '© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d'OpenStreetMap</a>'
+            '© <a href="http://www.openstreetmap.org/copyright" target="_blank">Col·laboradors d\'OpenStreetMap</a>'
           ]
         })
       });
@@ -142,7 +320,7 @@
         controls: ol.control.defaults({
           attribution: false,
           zoomOptions: {
-            zoomInTipLabel: 'Apropa',
+            zoomInTipLabel: 'Amplia',
             zoomOutTipLabel: 'Allunya'
           }
         }).extend(
@@ -318,3 +496,6 @@
       })();
     </script>
     <!-- End Matomo Code -->
+
+  </body>
+</html>
