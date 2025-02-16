@@ -1,6 +1,6 @@
 ---
 layout: page
-title: El mapa en català
+title: 
 subtitle: 
 ---
 
