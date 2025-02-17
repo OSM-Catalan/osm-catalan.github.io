@@ -31,6 +31,9 @@ navbar-links:
   L'Associació: 
     - Història: "associacio"
     - Estatuts: "assets/docs/Estatuts - Associació Catalana de l'OpenStreetMap.pdf"
+    - Acta fundacional: "assets/docs/Acta fundacional.pdf"
+    - Alta coma  soci: "assets/docs/Formulari alta soci_a.pdf"
+    - Baixa com a soci: "assets/docs/Formulari baixa soci_a.pdf"
   Contacte: 
     - Xarxes i comunicació: "xarxes-i-comunicacio"
     - Fòrum oficial: "https://community.openstreetmap.org/c/communities/lang-ca/69"
