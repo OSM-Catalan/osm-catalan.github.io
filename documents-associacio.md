@@ -12,10 +12,14 @@ subtitle:
 - [Codi ètic]()
 - [Funcionament intern]()
   
-**Llibre d'Actes**
+**Llibre d'Actes de l'Assemblea**
 - [001/2025-03-11](https://www.osmcatala.cat/assets/docs/Acta%20fundacional.pdf)
-- [001/2025-03-11]()
+- [002/2025-06-01]()
 
+**Llibre d'Actes de la Junta**
+- [001/2025-04-01]()
+- [002/2025-06-01]()
+  
 **Llibre de Socis**
 - Al tractar-se de dades personals, no es troba publicat a la web. En cas de voler exercir els drets d'accès, rectificació, supressió, oposició i limitació del tractament de els seves dades dirigint-se a l'Associació Catalana de l'OpenStreetMap: acosm@proton.me
 
