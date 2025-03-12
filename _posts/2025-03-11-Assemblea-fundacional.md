@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assemblea fundacional 11 de març (data i lloc per confirmar)
+title: Assemblea fundacional 11 de març
 subtitle: Es convoca assemblea fundacional per a la creació de l'associació
 tags: [reunio, associacio]
 comments: true
@@ -10,26 +10,27 @@ share-img: /assets/img/osmcal.png
 ---
 
 {: .box-success}
-PENDENT DE CONFIRMAR - Dimarts 11 de març a les 19:00 reunió a través de [Jitsi](https://meet.jit.si/moderated/bf9d45f5cd616d29bb061538114dcfe3627065efe65cd9d28263e8a23a74c789).
+Dimarts 11 de març a les 20:00 reunió a través de [Jitsi](https://meet.jit.si/moderated/bf9d45f5cd616d29bb061538114dcfe3627065efe65cd9d28263e8a23a74c789).
 Es recomana a totes aquelles persones que vulguin formar part de la junta (ja sigui amb càrrec o com a vocals) o constar com a signant dels documents, dispossar d'un certificat digital per firmar documents. En principi es té previst que l'acte es faci integrament de manera telemàtica.
 
 **Ordre del dia**
 
 Es tractaran temes relatius a la creació de l' Associació catalana de l'OpenStreetMap:
-- Explicació tècnica del procediment de firma
-- Votació/aprovació de la Junta
+- Explicació del procediment de firma
+- Presentració de la Junta proposada
 - Firma d'Estatuts
 - Firma de l'Acta Fundacional
 - Registre de socis
 - Explicació de les següents passes a seguir
 
-**Persones assistents**
-
 **Acords i temes tractats**
+- Es presenta la Junta que es va escollir pel Telegram
+- Es remete l'Acta i els Estatuts (revisats en reunions anteriors) als socis fundadors per a la seva aprovació i signatura
 
 **Temes i tasques pendents**
 
-- Presentació de la documentació al departament de Justicia
+- Presentació de la documentació al departament de Justicia i a l'Autoritat de Protecció de Dades
+- Presentació si s'escau a Hisenda 
 - Redactar Codi Ètic
 
 **Enllaços d'interés***
