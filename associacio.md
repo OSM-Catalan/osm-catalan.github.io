@@ -4,6 +4,9 @@ title: Associació Catalana de l'OpenStreetMap
 subtitle: 
 ---
 
+**Junta**
+Actualment, a l'any 2025, la junta la formen 11 persones. En la constitució de l'11 de març de 2025 es va escollir el president (Joan Maspons), secretari (Carlos Sánchez) i tresorer (Jaume Solé). També es van afegir com a vocals 8 dels socis fundadors.
+
 **Història**
 - març 2016: la idea de crear una associació o formar part d'una apareix en relació amb els Local Chapters d'OpenStreetMap i la possibilitat de crear una infraestructura propia (render d'aparcaments, etc). Es proposa integrar-se dins d'ACTIG igual que els components de GeoInquiets.
 - agost 2019: torna a sorgir la idea de formar part d'ACTIG arrel de la creació de jornades, possibles tallers o màsters, etc.
@@ -14,11 +17,13 @@ subtitle:
 - gener 2025: l'interés en la creació de l'associació torna a rebifar, també coincidint amb la de l'Associació Española d'OpenStreetMap
 - 28 de gener de 2025: reunió telemàtica per definir Estatuts i arribar a acords respecte temes com la denominació i el domicili de l'associació
 - 11 de febrer de 2025: reunió telemàtica per revisar Estatuts i acordar dia de fundació
--
--
+- 11 de març de 2025: reunió per a la votació de la junta i instruccions per a la firma dels estatuts i l'acta fundacional
+- 26 de març de 2025: presentació de la documentació al Departament de Justicia de la Generalitat
+- 1 d'abril de 2025: obtenció del NIF provisional 
 
 **Altres**
-- Correu electrónic específic:
+- Correu electrónic específic: acosm@proton.me
 - Domicili: Canòdrom - Carrer Concepció Arenal 165, 08027 Barcelona
+- NIF: G21785035
 
 [llegir-ne més](https://wiki.openstreetmap.org/wiki/WikiProject_Catalan) 
