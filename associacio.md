@@ -5,7 +5,12 @@ subtitle:
 ---
 
 **Junta**
-Actualment, a l'any 2025, la junta la formen 11 persones. En la constitució de l'11 de març de 2025 es va escollir el president (Joan Maspons), secretari (Carlos Sánchez) i tresorer (Jaume Solé). També es van afegir com a vocals 8 dels socis fundadors.
+
+Actualment, a l'any 2025, la junta la formen 11 persones. En la constitució de l'11 de març de 2025 es va escollir:
+- President: Joan Maspons
+- Secretari: Carlos Sánchez
+- Tresorer: Jaume Solé
+- també es van afegir com a vocals 8 dels socis fundadors
 
 **Història**
 - març 2016: la idea de crear una associació o formar part d'una apareix en relació amb els Local Chapters d'OpenStreetMap i la possibilitat de crear una infraestructura propia (render d'aparcaments, etc). Es proposa integrar-se dins d'ACTIG igual que els components de GeoInquiets.
