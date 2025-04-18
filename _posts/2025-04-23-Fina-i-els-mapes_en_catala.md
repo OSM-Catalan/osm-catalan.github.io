@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Fina i els mapes
+title: 🐉Fina i els mapes🌹
 subtitle: Presentem la traducció al català de Fina e os mapas
-cover-img: /assets/img/OSM_stJordi.jpg
-thumbnail-img: /assets/img/OSM_stJordi.jpg
-share-img: /assets/img/OSM_stJordi.jpg
+cover-img: /assets/img/Fina_i_els_mapes.jpg
+thumbnail-img: /assets/img/Fina_i_els_mapes.jpg
+share-img: /assets/img/Fina_i_els_mapes.jpg
 tags: [llibre, aprendre, traduccions, català]
 author: Joan Maspons
 ---
