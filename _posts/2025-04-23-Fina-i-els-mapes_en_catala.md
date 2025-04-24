@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fina i els mapes
+title: 🐉Fina i els mapes🌹
 subtitle: Presentem la traducció al català de Fina e os mapas
 cover-img: /assets/img/Fina_i_els_mapes.png
 thumbnail-img: /assets/img/Fina_i_els_mapes.png
