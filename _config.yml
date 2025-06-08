@@ -29,8 +29,7 @@ navbar-links:
   Col·laboracions: 
     - ICGC: "https://www.icgc.cat/ca"
   L'Associació: 
-    - Qui som: "qui-associacio"
-    - Història: "historia-associacio"
+    - Qui som: "qui-som-associacio"
     - Documents: "documents-associacio"
     - Alta com a soci: "assets/docs/Formulari alta soci_a.pdf"
     - Baixa com a soci: "assets/docs/Formulari baixa soci_a.pdf"
