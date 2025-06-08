@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Associació Catalana de l'OpenStreetMap
+title: Història de l'Associació Catalana de l'OpenStreetMap
 subtitle: 
 ---
 
@@ -24,7 +24,8 @@ Actualment, a l'any 2025, la junta la formen 11 persones. En la constitució de 
 - 11 de febrer de 2025: reunió telemàtica per revisar Estatuts i acordar dia de fundació
 - 11 de març de 2025: reunió per a la votació de la junta i instruccions per a la firma dels estatuts i l'acta fundacional
 - 26 de març de 2025: presentació de la documentació al Departament de Justicia de la Generalitat
-- 1 d'abril de 2025: obtenció del NIF provisional 
+- 1 d'abril de 2025: obtenció del NIF provisional
+- 8 de juny de 2025: 
 
 **Altres**
 - Correu electrónic específic: acosm@proton.me
