@@ -2,7 +2,7 @@
 layout: post
 title: Associació Catalana de l'OpenStreetMap
 subtitle: Resum de les passes fetes
-tags: [reunio, associacio]
+tags: [reunio, assemblea, associacio]
 comments: true
 author: Carlos Sánchez
 thumbnail-img: /assets/img/acosm.png
