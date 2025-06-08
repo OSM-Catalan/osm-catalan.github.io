@@ -2,7 +2,7 @@
 layout: post
 title: Assemblea fundacional 11 de març
 subtitle: Es convoca assemblea fundacional per a la creació de l'associació
-tags: [reunio, associacio]
+tags: [reunio, assemblea, associacio]
 comments: true
 author: Carlos Sánchez
 thumbnail-img: /assets/img/osmcal.png
