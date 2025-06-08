@@ -8,6 +8,7 @@ subtitle:
 
 # Estatuts #
 - [Estatuts](https://www.osmcatala.cat/assets/docs/Estatuts%20-%20Associaci%C3%B3%20Catalana%20de%20l'OpenStreetMap.pdf)
+- [Bylaws](https://www.osmcatala.cat/assets/docs/Estatuts%20-%20Associaci%C3%B3%20Catalana%20de%20l'OpenStreetMap.pdf)
 
 # Llibre d'Actes de l'Assemblea #
 - [001/2025-03-11](https://www.osmcatala.cat/assets/docs/Acta%20fundacional.pdf)
