@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Associació Catalana de l'OpenStreetMap
-subtitle: Qui som
+title: Qui som
+subtitle: Associació Catalana de l'OpenStreetMap
 ---
 
 Som una organització independent sense ànim de lucre que promou el projecte OpenStreetMap, els seus projectes germans, l'ús del català i de les dades obertes. 
