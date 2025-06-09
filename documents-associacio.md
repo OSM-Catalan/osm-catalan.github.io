@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Documents de l'Associació Catalana de l'OpenStreetMap
-subtitle: 
+title: Documents
+subtitle: Associació Catalana de l'OpenStreetMap
 ---
 
 {: .box-success} Els documents aquí enllaçats són versions dels originals, ja que s'han eliminat les dades personals i firmes digitals d'aquests.
