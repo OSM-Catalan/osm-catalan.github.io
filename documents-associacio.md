@@ -6,9 +6,11 @@ subtitle: Associació Catalana de l'OpenStreetMap
 
 {: .box-success} Els documents aquí enllaçats són versions dels originals, ja que s'han eliminat les dades personals i firmes digitals d'aquests.
 
-**Estatuts**
+**Estatuts i registre**
 - [Estatuts](https://www.osmcatala.cat/assets/docs/ACOSM Estatuts.pdf)
-- [Bylaws](https://www.osmcatala.cat/assets/docs/ACOSM Estatuts.pdf)
+- [Bylaws](https://www.osmcatala.cat/assets/docs/ACOSM Bylaws.pdf)
+- [Registre](https://www.osmcatala.cat/assets/docs/ACOSM Registre.pdf)
+- [Registry](https://www.osmcatala.cat/assets/docs/ACOSM Registry.pdf)
 
 **Llibre d'Actes de l'Assemblea**
 - [001/2025-03-11](https://www.osmcatala.cat/assets/docs/ACOSM 01_20250311.pdf)
