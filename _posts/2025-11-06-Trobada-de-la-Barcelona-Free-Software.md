@@ -2,9 +2,9 @@
 layout: post
 title: Trobada de la Barcelona Free Software
 subtitle: Primeres conexions i intercanvi de dades
-cover-img: /assets/img/BFS.svg.png
-thumbnail-img: /assets/img/BFS.svg.png
-share-img: /assets/img/BFS.svg.png
+cover-img: /assets/img/BFS.svg
+thumbnail-img: /assets/img/BFS.svg
+share-img: /assets/img/BFS.svg
 tags: [trobada, BFS, col·laboracions]
 author: Bertram Müller
 ---
