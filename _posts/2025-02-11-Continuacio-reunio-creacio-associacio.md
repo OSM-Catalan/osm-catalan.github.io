@@ -5,8 +5,8 @@ subtitle: Es convoca reunió per a la creació de l'associació
 tags: [reunio, associacio]
 comments: true
 author: Carlos Sánchez
-thumbnail-img: /assets/img/osmcal.png
-share-img: /assets/img/osmcal.png
+thumbnail-img: /assets/img/acosm.png
+share-img: /assets/img/acosm.png
 ---
 
 {: .box-success}
