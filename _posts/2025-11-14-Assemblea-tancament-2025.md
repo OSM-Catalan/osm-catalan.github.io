@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assemblea fi d'any 2025 (per desembre o gener)
+title: Assemblea de tancament d'any 2025 (per desembre o gener)
 subtitle: Es convoca reunió resum de l'any 2025
 tags: [reunio, associacio]
 comments: true
