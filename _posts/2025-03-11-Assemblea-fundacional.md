@@ -5,8 +5,8 @@ subtitle: Es convoca assemblea fundacional per a la creació de l'associació
 tags: [reunio, assemblea, associacio]
 comments: true
 author: Carlos Sánchez
-thumbnail-img: /assets/img/osmcal.png
-share-img: /assets/img/osmcal.png
+thumbnail-img: /assets/img/acosm.png
+share-img: /assets/img/acosm.png
 ---
 
 {: .box-success}
