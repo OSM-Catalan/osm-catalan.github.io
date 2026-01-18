@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reunió amb Marc Hidalgo de la Paeria
+title: Reunió amb la Paeria
 subtitle: Possibles col·laboracions i projectes amb la ciutat de Lleida
 tags: [reunio, paeria, lleida, col·laboracio]
 comments: true
