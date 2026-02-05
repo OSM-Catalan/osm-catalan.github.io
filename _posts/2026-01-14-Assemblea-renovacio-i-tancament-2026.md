@@ -10,7 +10,7 @@ share-img: /assets/img/acosm.png
 ---
 
 {: .box-success}
-Dissabte 14 de març a les 19:00 a través de Jitsi o presencialment a .... Únicament els socis tenen dret de vot, encara que hi pot participar tothom de la reunió/discussió.
+Dissabte 14 de març a les PER DETERMINAR a través de Jitsi o presencialment a .... Únicament els socis tenen dret de vot, encara que hi pot participar tothom de la reunió/discussió.
 
 **Temes a tractar**
 - Aprovació de l'acta anterior
