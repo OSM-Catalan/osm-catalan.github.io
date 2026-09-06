@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Junta 14 d'octubre de 2026
+title: Assemblea 14 d'octubre de 2026
 subtitle: 
-tags: [reunio,junta, associacio]
+tags: [reunio,assemblea, associacio]
 comments: true
 author: Carlos Sánchez
 thumbnail-img: /assets/img/acosm.png
@@ -10,7 +10,7 @@ share-img: /assets/img/acosm.png
 ---
 
 **Dia i hora**
-Es convoca de manera [telemàtica]([https://meet.guifi.net/AssociacioCatalanaOSM14octubre]) junta pel proper dimecres 14 d'octubre de 2026 a les 19:00.
+Es convoca de manera [telemàtica]([https://meet.guifi.net/AssociacioCatalanaOSM14octubre]) assemblea pel proper dimecres 14 d'octubre de 2026 a les 19:00.
 
 **Ordre del dia**
 1. Quotes de sòci
