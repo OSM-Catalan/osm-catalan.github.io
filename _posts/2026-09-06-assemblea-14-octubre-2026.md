@@ -10,7 +10,7 @@ share-img: /assets/img/acosm.png
 ---
 
 **Dia i hora**
-Es convoca de manera [telemàtica]([https://meet.guifi.net/AssociacioCatalanaOSM14octubre]) assemblea pel proper dimecres 14 d'octubre de 2026 a les 19:00.
+Es convoca de manera [telemàtica](https://meet.guifi.net/AssociacioCatalanaOSM14octubre) assemblea pel proper dimecres 14 d'octubre de 2026 a les 19:00.
 
 **Ordre del dia**
 1. Quotes de sòci
@@ -23,4 +23,4 @@ Es convoca de manera [telemàtica]([https://meet.guifi.net/AssociacioCatalanaOSM
 
 **Acords**
 
-[OSMcal]()
+[OSMcal](https://osmcal.org/event/5188/)
