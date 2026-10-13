@@ -18,7 +18,8 @@ Es convoca de manera [telemàtica](https://meet.guifi.net/AssociacioCatalanaOSM1
 3. Resum d'activitats/reunions/col·laboracions de l'any anterior
 4. Proposta d'activitats a fer o projectes a coordinar (com 1 carrer 1 nom)
 5. Local Chapter: consideracions, marca, etc.
-6. Precs i preguntes
+6. Possible data per a una propera reunió/assemblea presencial
+7. Precs i preguntes
 
 **Assistents**
 
