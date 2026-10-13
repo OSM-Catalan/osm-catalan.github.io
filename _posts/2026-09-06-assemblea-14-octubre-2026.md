@@ -13,7 +13,7 @@ share-img: /assets/img/acosm.png
 Es convoca de manera [telemàtica](https://meet.guifi.net/AssociacioCatalanaOSM14octubre) assemblea pel proper dimecres 14 d'octubre de 2026 a les 19:00.
 
 **Ordre del dia**
-1. Lectura i aprovació de l'acta anterior [consulta](https://www.osmcatala.cat/assets/docs/ACOSM%2003_20250618.pdf)
+1. Lectura i aprovació de l'acta anterior ([consulta](https://www.osmcatala.cat/assets/docs/ACOSM%2003_20250618.pdf))
 2. Possibles quotes de soci, ingressos i despesses
 3. Resum d'activitats/reunions/col·laboracions de l'any anterior
 4. Proposta d'activitats a fer o projectes a coordinar (com 1 carrer 1 nom)
