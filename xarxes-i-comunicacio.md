@@ -8,7 +8,7 @@ Ençà de la reunió celebrada per la comunitat el 2014 a Sarrià de Ter, va sor
 
 Xarxes i vies principals de comunicació:
 
-- [Telegram de l'associació](https://t.me/+78OoB52mMfplY2Zk)
+- [Telegram de l'associació](https://t.me/+78OoB52mMfplY2Zk): es tracta d'un grup de Telegram específic per a gestionar temes de l'associació, com ara la infraestructura, les assemblees, etc.
 - [Correu de l'associació](mailto:acosm@proton.me): es tracta d'un correu específic per a gestions com altes i baixes de socis, juntes i assemblees, etc.
 - [Fòrum oficial](https://community.openstreetmap.org/c/communities/lang-ca/69): permet una coordinació de la comunitat més fluida entorn de certes tasques
 - [Telegram de la comunitat](https://t.me/osmcat): es tracta de la via principal de comunicació per a la comunitat
