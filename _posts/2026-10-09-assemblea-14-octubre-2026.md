@@ -17,29 +17,29 @@ Es convoca de manera [telemàtica](https://meet.guifi.net/AssociacioCatalanaOSM1
 Es fa repàs de l'acta anterior (de juny del 2025) i s'aprova per unanimitat.
 2. Possibles quotes de soci, ingressos i despesses
 * Dominis
-Un dels costos fixos a tenir en compte és la renovació dels tres dominis de què disposem (osm.cat,
+   * Un dels costos fixos a tenir en compte és la renovació dels tres dominis de què disposem (osm.cat,
 openstreetmap.cat i osmcatala.cat). El total seria d'uns 60 o 70 euros anuals. Encara hi ha temps, ja
 que les renovacions serien d'aquí un any aproximadament.
-Actualment, la seva titularitat a CDmon ja s'ha traspassat a l'usuari "osmcatala".
+   * Actualment, la seva titularitat a CDmon ja s'ha traspassat a l'usuari "osmcatala".
 * Compte corrent
-Actualment, la millor opció per a l'obertura del compte corrent és Caixa Guissona, on podríem gaudir
+   * Actualment, la millor opció per a l'obertura del compte corrent és Caixa Guissona, on podríem gaudir
 d'un cost 0 de manteniment. Només caldria aportar-hi una previsió de despeses i ingressos perquè
 ens ho aprovessin.
-En cas que no fos així, la següent opció seria Caixa d'Enginyers, però hauríem de tenir en compte
+   * En cas que no fos així, la següent opció seria Caixa d'Enginyers, però hauríem de tenir en compte
 un cost anual d'uns 100 euros. S'ha comentat la possibilitat que aquest cost sigui cobert per la
 fundació de Caixa Enginyers.
 * Servidor propi
-Per tal de tenir una estimació de costos, s'haurien de dimensionar tenint en compte els possibles
+   * Per tal de tenir una estimació de costos, s'haurien de dimensionar tenint en compte els possibles
 projectes o aplicacions que s'hi han d'allotjar.
-En el cas d'allotjar-hi Panoramax, l'espai d'emmagatzematge hauria de ser bastant més gran. En
+   * En el cas d'allotjar-hi Panoramax, l'espai d'emmagatzematge hauria de ser bastant més gran. En
 Marc n'estava fent proves sobre el tema.
-Actualment, Amical està pagant al voltant de 20 euros mensuals pel seu servidor.
-Es podria considerar la col·laboració amb universitats o entitats i institucions públiques per a
+   * Actualment, Amical està pagant al voltant de 20 euros mensuals pel seu servidor.
+   * Es podria considerar la col·laboració amb universitats o entitats i institucions públiques per a
 l'allotjament.
 * Ingressos
-Els ingressos d'una associació com la nostra vindrien bàsicament de tres orígens: quotes de soci,
+   * Els ingressos d'una associació com la nostra vindrien bàsicament de tres orígens: quotes de soci,
 donacions i la realització de cursos o xerrades.
-Es podria fixar una quota anual de soci d'uns 10 euros, però abans hauriem d'avaluar costos.
+   * Es podria fixar una quota anual de soci d'uns 10 euros, però abans hauriem d'avaluar costos.
 3. Resum d'activitats/reunions/col·laboracions de l'any anterior
 4. Proposta d'activitats a fer o projectes a coordinar (com 1 carrer 1 nom)
 5. Local Chapter: consideracions, marca, etc.
