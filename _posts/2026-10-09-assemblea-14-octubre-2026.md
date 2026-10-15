@@ -12,7 +12,7 @@ share-img: /assets/img/acosm.png
 **Dia i hora**
 Es convoca de manera [telemàtica](https://meet.guifi.net/AssociacioCatalanaOSM14octubre) assemblea pel proper dimecres 14 d'octubre de 2026 a les 19:00.
 
-**Ordre del dia**
+**Ordre del dia i acords**
 1. Lectura i aprovació de l'acta anterior ([consulta](https://www.osmcatala.cat/assets/docs/ACOSM%2003_20250618.pdf))
  * Es fa repàs de l'acta anterior (de juny del 2025) i s'aprova per unanimitat.
 2. Possibles quotes de soci, ingressos i despesses
@@ -71,7 +71,6 @@ portfoli de portes cap a fora per al públic en general, etc.
 6. Bertram Müller
 7. Miquel Duran
 8. Marc Bosch i Matas
-   
-**Acords**
+
 
 [OSMcal](https://osmcal.org/event/5188/)
