@@ -14,7 +14,7 @@ Es convoca de manera [telemàtica](https://meet.guifi.net/AssociacioCatalanaOSM1
 
 **Ordre del dia**
 1. Lectura i aprovació de l'acta anterior ([consulta](https://www.osmcatala.cat/assets/docs/ACOSM%2003_20250618.pdf))
-Es fa repàs de l'acta anterior (de juny del 2025) i s'aprova per unanimitat.
+ * Es fa repàs de l'acta anterior (de juny del 2025) i s'aprova per unanimitat.
 2. Possibles quotes de soci, ingressos i despesses
   * Dominis
      * Un dels costos fixos a tenir en compte és la renovació dels tres dominis de què disposem (osm.cat,
@@ -44,7 +44,7 @@ donacions i la realització de cursos o xerrades.
   * S'han fet reunions amb l'AMB o la Paeria i s'ha assistit a la Barcelona Free Software.
   * En Joan disposa de l'acta d'algunes de les reunions realitzades anteriorment.
 4. Proposta d'activitats a fer o projectes a coordinar (com 1 carrer 1 nom)
-S'haurien de rellançar els projectes aturats, col·laboracions, així com les xarxes socials per a la difusió i la
+ * S'haurien de rellançar els projectes aturats, col·laboracions, així com les xarxes socials per a la difusió i la
 crida a la participació d'aquests.
 5. Local Chapter: consideracions, marca, etc.
   * La marca que s'utilitzarà públicament en activitats, mostres o xarxes serà "OpenStreetMap Català", tot i
