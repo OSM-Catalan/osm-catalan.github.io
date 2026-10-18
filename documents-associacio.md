@@ -27,7 +27,7 @@ subtitle: Associació Catalana de l'OpenStreetMap
 
 **Llibre de Socis**
 
-Al tractar-se de dades personals, no es troba publicat a la web. En cas de voler exercir els drets d'accès, rectificació, supressió, oposició i limitació del tractament de els seves dades dirigint-se a l'Associació Catalana de l'OpenStreetMap: acosm@proton.me
+Al tractar-se de dades personals, no es troba publicat a la web. En cas de voler exercir els drets d'accés, rectificació, supressió, oposició i limitació del tractament de les seves dades, pot dirigint-se a l'Associació Catalana de l'OpenStreetMap: acosm@proton.me
 
 **Altres**
 - [Codi ètic]() pendent
