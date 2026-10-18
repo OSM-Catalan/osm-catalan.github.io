@@ -16,6 +16,7 @@ subtitle: Associació Catalana de l'OpenStreetMap
 - [001/2025-03-11](https://www.osmcatala.cat/assets/docs/ACOSM 01_20250311.pdf)
 - [002/2025-05-21](https://www.osmcatala.cat/assets/docs/ACOSM 02_20250521.pdf)
 - [003/2025-06-18](https://www.osmcatala.cat/assets/docs/ACOSM 03_20250618.pdf)
+- [004/2026-10-14]() pendent de penjar
 
 **Llibre d'Actes de la Junta**
 - [001/2025-04-01](https://www.osmcatala.cat/assets/docs/ACOSM J01_20250625.pdf)
