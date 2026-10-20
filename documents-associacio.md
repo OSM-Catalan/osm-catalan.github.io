@@ -30,5 +30,6 @@ subtitle: Associació Catalana de l'OpenStreetMap
 Al tractar-se de dades personals, no es troba publicat a la web. En cas de voler exercir els drets d'accés, rectificació, supressió, oposició i limitació del tractament de les seves dades, pot dirigint-se a l'Associació Catalana de l'OpenStreetMap: acosm@proton.me
 
 **Altres**
+- [Local Chapter Agreement](https://www.osmcatala.cat/assets/docs/LocalChapterAgreement.pdf)
 - [Codi ètic]() pendent
 - [Funcionament intern]() pendent
