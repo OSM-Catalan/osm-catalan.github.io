@@ -15,7 +15,7 @@ Xarxes i vies principals de comunicació:
 - [Correu de la comunitat](mailto:osmcatala@gmail.com): es tracta d'una via oficial i més profesional per als contactes i colaboracions entre la comunitat i altres organismes, entitats, etc.
 - [Mastodon](https://mastodont.cat/@osmcatala)
 - [Bluesky](https://bsky.app/profile/osmcatala.bsky.social) (compte creat fa poc)
-- X/Twitter (tancat)
+- [TikTok](https://www.tiktok.com/@osmcatala) (compte creat fa poc)
 
 Altres xarxes (infrautilitzades):
 
@@ -28,12 +28,13 @@ Altres xarxes (infrautilitzades):
 - [PixelFed](https://pixelfed.social/i/web/profile/787747398423818716)
 - [Facebook](https://www.facebook.com/OSMcatala)
 - [LinkedIn](https://www.linkedin.com/groups/7495585/)
-- [Diaspora](https://diasp.eu/u/osmcatala)
 
-Xarxes ja desaparegudes:
+Xarxes ja desaparegudes o tancades:
 
 - Google+
 - Pump.io
 - GNUsocial
+- Diaspora (instància diasp.eu desapareguda)
+- X/Twitter (perfil tancat)
 
 [llegir-ne més](https://wiki.openstreetmap.org/wiki/WikiProject_Catalan/Xarxes_socials) 
