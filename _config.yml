@@ -23,7 +23,7 @@ url: "https://www.osmcatala.cat"
 
 navbar-links:
   Mapa en català: "mapa-en-catala"
-  La Comunitat: "https://wiki.openstreetmap.org/wiki/WikiProject_Catalan"
+  Wiki: "https://wiki.openstreetmap.org/wiki/WikiProject_Catalan"
   Destacats: 
     - El català al mapa: "catala-al-mapa"
   Col·laboracions: 
