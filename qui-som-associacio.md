@@ -25,7 +25,7 @@ Actualment, a l'any 2025, la junta la formen 11 persones. En la constitució de 
 
 - agost 2019: torna a sorgir la idea de formar part d'ACTIG arrel de la creació de jornades, possibles tallers o màsters, etc.
 
-- novembre 2020: s'inicien contactes amb ACTIG per a formar part de l'associació i poder crear el Local Chapter
+- novembre 2019: s'inicien contactes amb ACTIG per a formar part de l'associació i poder crear el Local Chapter
 - març 2020: els contactes amb ACTIG es paralitzen arrel de la situació de pandèmia
 
 - febrer 2023: es reobre el tema de la creació de l'associació després de la reunió al Canòdrom i del contacte de persones interessades a formar-hi part
