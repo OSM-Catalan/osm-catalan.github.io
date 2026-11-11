@@ -1,0 +1,10 @@
+{%- assign mesos = "gener,febrer,març,abril,maig,juny,juliol,agost,setembre,octubre,novembre,desembre" | split: "," -%}
+{%- assign idx = include.data | date: "%-m" | minus: 1 -%}
+{%- assign mes = mesos[idx] -%}
+{%- assign inicial = mes | slice: 0 -%}
+{%- if inicial == "a" or inicial == "o" -%}
+  {%- assign de = "d'" -%}
+{%- else -%}
+  {%- assign de = "de " -%}
+{%- endif -%}
+{{- include.data | date: "%-d" }} {{ de }}{{ mes }} de {{ include.data | date: "%Y" -}}
